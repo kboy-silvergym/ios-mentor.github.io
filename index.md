@@ -1,5 +1,7 @@
 # Slackとビデオチャットを使った全面的なiOSアプリ開発のサポート　10,000円／月
 
+![header_miniのコピー](https://user-images.githubusercontent.com/17683316/58873809-18f67480-8702-11e9-968a-95f8e74c559a.png)
+
 こちらは[MENTA](https://menta.work/plan/1091)のプランと同じですが、MENTAの手数料がかからない分、少し安くしてあります。決済はPayPalです。
 
 iOSアプリ開発に関わる知っていること全ての相談乗ります。
