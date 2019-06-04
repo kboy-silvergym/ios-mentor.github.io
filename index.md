@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+# Slackとビデオチャットを使った全面的なiOSアプリ開発のサポート　10,000円／月
 
-You can use the [editor on GitHub](https://github.com/kboy-silvergym/ios-mentor.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+こちらは[MENTA](https://menta.work/plan/1091)のプランと同じですが、MENTAの手数料がかからない分、少し安くしてあります。決済はPayPalです。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+iOSアプリ開発に関わる知っていること全ての相談乗ります。
 
-### Markdown
+## 主な内容
+- コードレビュー
+- slackでの技術的な質問
+- ビデオチャットによるマンツーマン指導
+- GitHubポートフォリオ添削
+- エンジニアのブランディング戦略相談
+- 就職相談
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 教えられる技術
+- iOSアプリ開発(Swift)
+- ARKit(多分日本で１番できます)
+- Firebase全般
+- iOSアプリ設計ざっくり(あんまり堅苦しいやつは嫌いです)
+- Firebaseでのサーバーサイド開発(node.js, TypeScript)
+- Kotlinを使ったAndroidアプリ開発(プロじゃないけど一応できる)
 
-```markdown
-Syntax highlighted code block
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="W3DZWZ9W7TX7N">
+<input type="image" src="https://www.paypalobjects.com/ja_JP/JP/i/btn/btn_subscribe_LG.gif" border="0" name="submit" alt="PayPal - オンラインでより安全・簡単にお支払い">
+<img alt="" border="0" src="https://www.paypalobjects.com/ja_JP/i/scr/pixel.gif" width="1" height="1">
+</form>
 
-# Header 1
-## Header 2
-### Header 3
+# プロフィール
 
-- Bulleted
-- List
+エンジニア系YouTuber。フリーランスエンジニア。
+iOS、ARKitが得意で、ARKit本を執筆中。
+早大理工総機卒。
 
-1. Numbered
-2. List
+### YouTube
+https://www.youtube.com/channel/UCEj6hquMBUiQGunwIO1zVZA
 
-**Bold** and _Italic_ and `Code` text
+### Udemy
+https://www.udemy.com/kboy-arkit
 
-[Link](url) and ![Image](src)
-```
+### GitHub
+https://github.com/kboy-silvergym
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Qiita
+https://qiita.com/k-boy
 
-### Jekyll Themes
+### Wantedly
+https://www.wantedly.com/users/17820205
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kboy-silvergym/ios-mentor.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### LinkedIn
+https://www.linkedin.com/in/kei-fujikawa/
