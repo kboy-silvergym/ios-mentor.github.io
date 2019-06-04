@@ -22,12 +22,7 @@ iOSアプリ開発に関わる知っていること全ての相談乗ります�
 - Firebaseでのサーバーサイド開発(node.js, TypeScript)
 - Kotlinを使ったAndroidアプリ開発(プロじゃないけど一応できる)
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="W3DZWZ9W7TX7N">
-<input type="image" src="https://www.paypalobjects.com/ja_JP/JP/i/btn/btn_subscribe_LG.gif" border="0" name="submit" alt="PayPal - オンラインでより安全・簡単にお支払い">
-<img alt="" border="0" src="https://www.paypalobjects.com/ja_JP/i/scr/pixel.gif" width="1" height="1">
-</form>
+**[paypalの決済はこちら](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XYBRR92ZGB6BA)**
 
 # プロフィール
 
