@@ -1,15 +1,13 @@
-# Slackとビデオチャットを使った全面的なiOSアプリ開発のサポート(10,000円／月)
+# Slackとビデオチャットを使った全面的なiOSアプリ開発のサポート(12,000円／月)
 
 ![header_miniのコピー](https://user-images.githubusercontent.com/17683316/58873809-18f67480-8702-11e9-968a-95f8e74c559a.png)
-
-こちらは[MENTA](https://menta.work/plan/1091)のプランと同じですが、MENTAの手数料がかからない分、少し安くしてあります。決済はPayPalです。
 
 iOSアプリ開発に関わる知っていること全ての相談乗ります。
 
 ## 主な内容
 - コードレビュー
 - slackでの技術的な質問
-- ビデオチャットによるマンツーマン指導
+- ビデオチャットによるマンツーマン指導（週１、２回30分程度）
 - GitHubポートフォリオ添削
 - エンジニアのブランディング戦略相談
 - 就職相談
@@ -22,31 +20,30 @@ iOSアプリ開発に関わる知っていること全ての相談乗ります�
 - Firebaseでのサーバーサイド開発(node.js, TypeScript)
 - Kotlinを使ったAndroidアプリ開発(プロじゃないけど一応できる)
 
-**[paypalの決済はこちら](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XYBRR92ZGB6BA)**
+## 値段
 
-決済後、slackのinvite urlにリダイレクトします。
-うまく遷移しない場合、ご連絡は[@kboy_silvergym](https://twitter.com/kboy_silvergym)のDMまでお願いします！
+**月12,000円**
+
+人数が５人を超えて時間が十分に取れなくなってきたので、値段を上げました。
+
+## 入会方法
+
+下記リンクからpaypal決済を済ませて、slackグループに入ってください！（毎月paypalから1万2000円が引き落とされます）
+そのあと、ビデオチャットをして進め方を決めていきましょう。
+
+**[<paypalの決済はこちら>](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PWFE4Q4TTH3TL)**
+
+※決済後、slackのinvite urlにリダイレクトします。うまく遷移しない場合、ご連絡は[@kboy_silvergym](https://twitter.com/kboy_silvergym)のDMまでお願いします！
 
 # プロフィール
-
 エンジニア系YouTuber。フリーランスエンジニア。
 iOS、ARKitが得意で、ARKit本を執筆中。
 早大理工総機卒。
 
-### YouTube
-https://www.youtube.com/channel/UCEj6hquMBUiQGunwIO1zVZA
-
-### Udemy
-https://www.udemy.com/kboy-arkit
-
-### GitHub
-https://github.com/kboy-silvergym
-
-### Qiita
-https://qiita.com/k-boy
-
-### Wantedly
-https://www.wantedly.com/users/17820205
-
-### LinkedIn
-https://www.linkedin.com/in/kei-fujikawa/
+### 各種リンク
+- [Youtube](https://www.youtube.com/channel/UCEj6hquMBUiQGunwIO1zVZA)
+- [Udemy](https://www.udemy.com/kboy-arkit)
+- [GitHub](https://github.com/kboy-silvergym)
+- [Qiita](https://qiita.com/k-boy)
+- [Wantedly](https://www.wantedly.com/users/17820205)
+- [LinkedIn](https://www.linkedin.com/in/kei-fujikawa/)
