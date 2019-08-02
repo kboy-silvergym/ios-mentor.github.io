@@ -4,6 +4,18 @@
 
 iOSアプリ開発に関わる知っていること全ての相談乗ります。
 
+## KBOYプロフィール
+エンジニア系YouTuber。フリーランスエンジニア。
+iOS、ARKitが得意で、ARKit本を執筆中。
+早大理工総機卒。
+
+- [Youtube](https://www.youtube.com/channel/UCEj6hquMBUiQGunwIO1zVZA)
+- [Udemy](https://www.udemy.com/kboy-arkit)
+- [GitHub](https://github.com/kboy-silvergym)
+- [Qiita](https://qiita.com/k-boy)
+- [Wantedly](https://www.wantedly.com/users/17820205)
+- [LinkedIn](https://www.linkedin.com/in/kei-fujikawa/)
+
 ## 主な内容
 - コードレビュー
 - slackでの技術的な質問
@@ -34,16 +46,3 @@ iOSアプリ開発に関わる知っていること全ての相談乗ります�
 **[<paypalの決済はこちら>](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PWFE4Q4TTH3TL)**
 
 ※決済後、slackのinvite urlにリダイレクトします。うまく遷移しない場合、ご連絡は[@kboy_silvergym](https://twitter.com/kboy_silvergym)のDMまでお願いします！
-
-# プロフィール
-エンジニア系YouTuber。フリーランスエンジニア。
-iOS、ARKitが得意で、ARKit本を執筆中。
-早大理工総機卒。
-
-### 各種リンク
-- [Youtube](https://www.youtube.com/channel/UCEj6hquMBUiQGunwIO1zVZA)
-- [Udemy](https://www.udemy.com/kboy-arkit)
-- [GitHub](https://github.com/kboy-silvergym)
-- [Qiita](https://qiita.com/k-boy)
-- [Wantedly](https://www.wantedly.com/users/17820205)
-- [LinkedIn](https://www.linkedin.com/in/kei-fujikawa/)
