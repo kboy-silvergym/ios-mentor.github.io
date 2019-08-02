@@ -43,6 +43,6 @@ iOS、ARKitが得意で、ARKit本を執筆中。
 下記リンクからpaypal決済を済ませて、slackグループに入ってください！（毎月paypalから1万2000円が引き落とされます）
 そのあと、ビデオチャットをして進め方を決めていきましょう。
 
-**[<paypalの決済はこちら>](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PWFE4Q4TTH3TL)**
+**[paypalの決済はこちら](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PWFE4Q4TTH3TL)**
 
 ※決済後、slackのinvite urlにリダイレクトします。うまく遷移しない場合、ご連絡は[@kboy_silvergym](https://twitter.com/kboy_silvergym)のDMまでお願いします！
