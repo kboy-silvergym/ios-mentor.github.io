@@ -45,4 +45,9 @@ iOS、ARKitが得意で、ARKit本を執筆中。
 
 [**paypalの決済はこちら**](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PWFE4Q4TTH3TL)
 
-※決済後、slackのinvite urlにリダイレクトします。うまく遷移しない場合、ご連絡は[@kboy_silvergym](https://twitter.com/kboy_silvergym)のDMまでお願いします！
+
+
+### 注意点
+
+- 決済後、slackのinvite urlにリダイレクトします
+- うまくslackのinvite url遷移しない場合、ご連絡は[@kboy_silvergym](https://twitter.com/kboy_silvergym)のDM、またはfujikei22funk@gmail.comまでメールを願いします！
