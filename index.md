@@ -48,7 +48,7 @@ iOS、ARKitが得意で、ARKit本を執筆中。
 ## 申し込み時の注意点
 
 - 決済後、slackのinvite urlにリダイレクトします
-- うまくslackのinvite url遷移しない場合、ご連絡は[@kboy_silvergym](https://twitter.com/kboy_silvergym)のDM、またはfujikei22funk@gmail.comまでメールを願いします！
+- うまくslackのinvite url遷移しない場合、ご連絡は[@kboy_silvergym](https://twitter.com/kboy_silvergym)のDM、またはfujikei22funk@gmail.comまでメールをお願いします！
 
 ## 利用規約とプライバシーポリシー
 - [利用規約](https://kboy-silvergym.github.io/ios-mentor.github.io/term)
