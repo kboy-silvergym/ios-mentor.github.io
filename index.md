@@ -34,16 +34,16 @@ iOS、ARKitが得意で、ARKit本を執筆中。
 
 ## 料金
 
-**月12,000円**
+**月15,000円**
 
-人数が５人を超えて時間が十分に取れなくなってきたので、値段を１万円から1万2千円に上げました。
+- 2019年8月29日価格改定
 
 ## 入会方法
 
-下記リンクからpaypal決済を済ませて、slackグループに入ってください！（毎月paypalから1万2000円が引き落とされます）
+下記リンクからpaypal決済を済ませて、slackグループに入ってください！（毎月paypalから1万5000円が引き落とされます）
 そのあと、ビデオチャットをして進め方を決めていきましょう。
 
-[**paypalの決済はこちら**](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PWFE4Q4TTH3TL)
+[**paypalの決済はこちら**](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XZN4QW6NH86B4)
 
 ## 申し込み時の注意点
 
