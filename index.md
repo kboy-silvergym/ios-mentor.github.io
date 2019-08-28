@@ -1,4 +1,4 @@
-# Slackとビデオチャットを使った全面的なiOSアプリ開発のサポート(12,000円／月)
+# Slackとビデオチャットを使った全面的なiOSアプリ開発のサポート(15,000円／月)
 
 ![header_miniのコピー](https://user-images.githubusercontent.com/17683316/58873809-18f67480-8702-11e9-968a-95f8e74c559a.png)
 
