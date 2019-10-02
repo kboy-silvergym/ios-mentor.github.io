@@ -1,4 +1,4 @@
-# Slackとビデオチャットを使った全面的なiOSアプリ開発のサポート(15,000円／月)
+# 【現在募集を停止しています】Slackとビデオチャットを使った全面的なiOSアプリ開発のサポート(15,000円／月)
 
 ![header_miniのコピー](https://user-images.githubusercontent.com/17683316/58873809-18f67480-8702-11e9-968a-95f8e74c559a.png)
 
@@ -40,15 +40,7 @@ iOS、ARKitが得意で、ARKit本を執筆中。
 
 ## 入会方法
 
-下記リンクからpaypal決済を済ませて、slackグループに入ってください！（毎月paypalから1万5000円が引き落とされます）
-そのあと、ビデオチャットをして進め方を決めていきましょう。
-
-[**paypalの決済はこちら**](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XZN4QW6NH86B4)
-
-## 申し込み時の注意点
-
-- 決済後、slackのinvite urlにリダイレクトします
-- うまくslackのinvite url遷移しない場合、ご連絡は[@kboy_silvergym](https://twitter.com/kboy_silvergym)のDM、またはfujikei22funk@gmail.comまでメールをお願いします！
+現在、新規の募集は行なっておりません。
 
 ## 利用規約とプライバシーポリシー
 - [利用規約](https://kboy-silvergym.github.io/ios-mentor.github.io/term)
